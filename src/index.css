@@ -55,3 +55,57 @@ body {
     color: #1d4ed8; /* Azul claro para hover */
   }
   
+
+  /* Asegura que el contenedor de la app ocupe toda la pantalla */
+.app-container {
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Sidebar fijo */
+.sidebar {
+  width: 25%;
+  background: linear-gradient(to bottom, #007bff, #0056b3);
+  color: white;
+  padding: 20px;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+/* Contenedor principal con scroll */
+.content {
+  width: 75%;
+  padding: 20px;
+  height: 100vh;
+  overflow-y: auto;  /* Permite el scroll */
+  background: white;
+}
+
+/* Enlaces de navegación */
+.nav-link {
+  display: block;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  transition: background 0.3s;
+}
+
+.nav-link:hover,
+.nav-link.active {
+  background: #004080;
+  border-radius: 5px;
+}
+.home-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.home-image {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
