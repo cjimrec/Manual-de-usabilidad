@@ -3,7 +3,7 @@ import React from 'react'
 function Interfaces() {
   return (
     <div>
-      <h2>3. Diseño de Interfaces (UI) Eficientes</h2>
+      <h3>3. Diseño de Interfaces (UI) Eficientes</h3>
       <ul>
         <li><strong>Botones y tamaño táctil recomendado:</strong> 
         Asegúrate de que los botones sean lo suficientemente grandes para ser tocados 

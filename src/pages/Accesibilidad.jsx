@@ -3,7 +3,7 @@ import React from 'react';
 function Accesibilidad() {
   return (
     <>
-      <h2>2. Accesibilidad y Diseño Inclusivo</h2>
+      <h3>2. Accesibilidad y Diseño Inclusivo</h3>
       
       <ul>
         <li>

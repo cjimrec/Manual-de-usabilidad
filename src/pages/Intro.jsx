@@ -3,7 +3,7 @@ import React from 'react';
 function Intro() {
   return (
     <>
-      <h2>1. Introducción a la Usabilidad</h2>
+      <h3>1. Introducción a la Usabilidad</h3>
       <p>
         La usabilidad es la facilidad con la que los usuarios pueden interactuar con un producto o sistema para alcanzar
         sus objetivos de manera eficiente, efectiva y satisfactoria.

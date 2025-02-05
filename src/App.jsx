@@ -18,7 +18,6 @@ function App() {
       <Header />
       <Router>
         <div className="app-container">
-          {/* Sidebar de navegación */}
           <aside className="sidebar">
             <h2>📌 Temas</h2>
             <ul>
@@ -43,7 +42,6 @@ function App() {
             </ul>
           </aside>
 
-          {/* Contenido principal */}
           <main className="content">
             <Routes>
               <Route path="/" element={<Home />} />

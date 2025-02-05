@@ -3,7 +3,7 @@ import React from 'react'
 function Practicas() {
   return (
     <div>
-      <h2>5. Buenas Prácticas en Desarrollo de Apps Usables</h2>
+      <h3>5. Buenas Prácticas en Desarrollo de Apps Usables</h3>
       <ul>
         <li><strong>Evitar sobrecarga cognitiva:</strong> Mantén la interfaz limpia y simple,
          evitando demasiada información o opciones en pantalla a la vez. Presenta la información de manera clara

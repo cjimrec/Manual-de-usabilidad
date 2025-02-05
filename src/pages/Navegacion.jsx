@@ -3,7 +3,7 @@ import React from 'react'
 function Navegacion() {
   return (
     <div>
-      <h1>4. Navegación y Flujo de Usuario</h1>
+      <h3>4. Navegación y Flujo de Usuario</h3>
       <ul>
         <li><strong>Implementación de React Navigation:</strong> Para gestionar la navegación en tu aplicación,
          React Navigation es una de las bibliotecas más populares. Permite crear un flujo de usuario consistente y fácil de usar.</li>

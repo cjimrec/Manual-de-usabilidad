@@ -3,7 +3,7 @@ import React from 'react'
 function Testing() {
   return (
     <div>
-      <h2>6. Testing de Usabilidad en React.js</h2>
+      <h3>6. Testing de Usabilidad en React.js</h3>
       <ul>
         <li><strong>Pruebas con usuarios:</strong> Realizar pruebas con usuarios reales es fundamental para identificar problemas de usabilidad en la interfaz.
          Esto puede incluir entrevistas, pruebas de tareas y observación del comportamiento de los usuarios mientras interactúan con la app.</li>
